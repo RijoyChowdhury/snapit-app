@@ -1,1 +1,2 @@
 /frontend_sanity/.env
+**/node_modules
